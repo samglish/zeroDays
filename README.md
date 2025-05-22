@@ -23,3 +23,9 @@ In the report, “We’re All in this Together: A Year in Review of Zero-Days Ex
 The result, we hope, is not only a broader assessment but clear guidance for others committed to securing the digital world.
 
 <img src="fig1.png" width="60%">
+
+When we analyze the data, we see progress in the fight against zero-days. End user platform vendors, such as Apple, Google and Microsoft, have made notable investments that are having a clear impact on the types — and number — of zero-days that actors are able to exploit. Vulnerabilities that were commonplace in years past are virtually non-existent today.
+
+<p> </p>
+
+On the enterprise side, we see a wider variety of vendors and products targeted, and an increase in enterprise-specific technologies being exploited. Over the years we’ve learned that the quicker we discover and patch attackers’ bugs, the shorter the lifespan of the exploit, and the more it costs attackers to maintain their capabilities. As an industry, we must now learn how to take those lessons and apply them to the wider ecosystem of vendors that are now finding themselves under attack.
