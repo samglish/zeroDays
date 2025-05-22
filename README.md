@@ -16,7 +16,7 @@ In 2023, Google observed 97 zero-day vulnerabilities exploited in-the-wild. That
 
 <p> </p>
 
-In the report, “We’re All in this Together: A Year in Review of Zero-Days Exploited In-the-Wild in 2023,” released today, we’re taking a broader look at this space with recommendations for others. TAG and Mandiant combined their expertise to analyze zero-days that were actively exploited against both end-user platforms and products (e.g. mobile devices, operating systems, browsers, and other applications) and enterprise-focused technologies such as security software and appliances.
+In the report, “We’re All in this Together: A Year in Review of Zero-Days Exploited In-the-Wild in 2023,” we’re taking a broader look at this space with recommendations for others. TAG and Mandiant combined their expertise to analyze zero-days that were actively exploited against both end-user platforms and products (e.g. mobile devices, operating systems, browsers, and other applications) and enterprise-focused technologies such as security software and appliances.
 
 <p> </p>
 
