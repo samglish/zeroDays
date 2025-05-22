@@ -18,4 +18,4 @@ In the report, “We’re All in this Together: A Year in Review of Zero-Days Ex
 
 The result, we hope, is not only a broader assessment but clear guidance for others committed to securing the digital world.
 
-<img src="fig1.png" width="50%">
+<img src="fig1.png" width="100%">
