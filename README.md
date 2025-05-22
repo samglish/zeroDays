@@ -1,4 +1,4 @@
-# Zero-day vulnerability <img src="fig2.jpg" width="10%">
+# Zero-day vulnerability <img src="fig2.jpg" width="30%">
 
 ### What is a zero-day vulnerability?
 A zero-day vulnerability is a vulnerability in a system or device that has been disclosed but is not yet patched. An exploit that attacks a zero-day vulnerability is called a zero-day exploit
