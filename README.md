@@ -1,4 +1,4 @@
-# Zero-day vulnerability <img src="fig2.jpg" width="30%">
+# Zero-day vulnerability 
 
 ### What is a zero-day vulnerability?
 A zero-day vulnerability is a vulnerability in a system or device that has been disclosed but is not yet patched. An exploit that attacks a zero-day vulnerability is called a zero-day exploit
@@ -29,3 +29,5 @@ When we analyze the data, we see progress in the fight against zero-days. End us
 <p> </p>
 
 On the enterprise side, we see a wider variety of vendors and products targeted, and an increase in enterprise-specific technologies being exploited. Over the years we’ve learned that the quicker we discover and patch attackers’ bugs, the shorter the lifespan of the exploit, and the more it costs attackers to maintain their capabilities. As an industry, we must now learn how to take those lessons and apply them to the wider ecosystem of vendors that are now finding themselves under attack.
+
+<img src="fig2.jpg" width="50%">
